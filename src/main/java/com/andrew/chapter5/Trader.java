@@ -1,6 +1,5 @@
 package com.andrew.chapter5;
 
-
 /*
 * 测试Stream的api需要用到的领域
 * 交易和交易员
